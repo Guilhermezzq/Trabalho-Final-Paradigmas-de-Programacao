@@ -1,0 +1,18 @@
+Voo: BH-BRASILIA
+Lista de Passageiros:
+CPF: 11111111111, Nome: Artur Lima, Endereço: Rua A, Telefone: 123456789, Número da Passagem: ABC123, Número da Poltrona: 1, Número do Voo: BH-BRASÍLIA, Horário: 08:00
+CPF: 22222222222, Nome: Beatriz Almeida, Endereço: Rua B, Telefone: 987654321, Número da Passagem: DEF456, Número da Poltrona: 2, Número do Voo: BH-BRASÍLIA, Horário: 10:00
+CPF: 33333333333, Nome: Carlos Silva, Endereço: Rua C, Telefone: 555555555, Número da Passagem: GHI789, Número da Poltrona: 3, Número do Voo: BH-BRASÍLIA, Horário: 12:00
+CPF: 44444444444, Nome: Denise Oliveira, Endereço: Rua D, Telefone: 11112222333, Número da Passagem: JKL012, Número da Poltrona: 4, Número do Voo: BH-BRASÍLIA, Horário: 14:00
+CPF: 55555555555, Nome: Eduardo Santos, Endereço: Rua E, Telefone: 999888777, Número da Passagem: MNO345, Número da Poltrona: 5, Número do Voo: BH-BRASÍLIA, Horário: 16:00
+CPF: 66666666666, Nome: Fernanda Lima, Endereço: Rua F, Telefone: 44443333222, Número da Passagem: PQR678, Número da Poltrona: 6, Número do Voo: BH-BRASÍLIA, Horário: 18:00
+CPF: 77777777777, Nome: Guilherme Almeida, Endereço: Rua G, Telefone: 123123123, Número da Passagem: STU901, Número da Poltrona: 7, Número do Voo: BH-BRASÍLIA, Horário: 20:00
+CPF: 88888888888, Nome: Heloísa Silva, Endereço: Rua H, Telefone: 987654321, Número da Passagem: VWX234, Número da Poltrona: 8, Número do Voo: BH-BRASÍLIA, Horário: 22:00
+CPF: 99999999999, Nome: Igor Oliveira, Endereço: Rua I, Telefone: 11112222333, Número da Passagem: YZA567, Número da Poltrona: 9, Número do Voo: BH-BRASÍLIA, Horário: 23:59
+CPF: 00000000000, Nome: Júlia Santos, Endereço: Rua J, Telefone: 999888777, Número da Passagem: BCD890, Número da Poltrona: 10, Número do Voo: BH-BRASÍLIA, Horário: 02:00
+Fila de Espera:
+CPF: 10101010101, Nome: Kleber Lima, Endereço: Rua K, Telefone: 123123123, Número da Passagem: EFG012, Número da Poltrona: 11, Número do Voo: BH-BRASÍLIA, Horário: 04:00
+CPF: 20202020202, Nome: Laura Almeida, Endereço: Rua L, Telefone: 987654321, Número da Passagem: HIJ345, Número da Poltrona: 12, Número do Voo: BH-BRASÍLIA, Horário: 06:00
+CPF: 30303030303, Nome: Marcos Silva, Endereço: Rua M, Telefone: 555555555, Número da Passagem: KLM678, Número da Poltrona: 13, Número do Voo: BH-BRASÍLIA, Horário: 08:00
+CPF: 40404040404, Nome: Nathalia Oliveira, Endereço: Rua N, Telefone: 11112222333, Número da Passagem: NOP901, Número da Poltrona: 14, Número do Voo: BH-BRASÍLIA, Horário: 10:00
+CPF: 50505050505, Nome: Otávio Santos, Endereço: Rua O, Telefone: 999888777, Número da Passagem: QRS234, Número da Poltrona: 15, Número do Voo: BH-BRASÍLIA, Horário: 12:00
